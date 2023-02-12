@@ -1,0 +1,259 @@
+body {
+    background: #ca9696;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    width: 1000px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
+}
+
+aside {
+    width: 300px;
+    background: #1e2939;
+}
+
+.cv-photo {
+    margin-top: 25px;
+}
+
+.header-secondary {
+    color: #ffffff;
+}
+
+.contact-links {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: #ffffff;
+}
+
+.contact-block {
+    margin-top: 51px;
+    margin-left: 35px;
+}
+
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 35px;
+    margin-right: 30px;
+}
+
+.soft-skills-block {
+    margin-left: 35px;
+    margin-top: 44px;
+    margin-right: 30px;
+}
+
+.knowledge-of-languages-block {
+    margin-left: 35px;
+    margin-top: 44px;
+    margin-right: 30px;
+}
+
+.interests-block {
+    margin-left: 35px;
+    margin-top: 44px;
+    margin-right: 30px;
+}
+
+main {
+    padding: 102px 88px 102px 60px;
+}
+
+.main-description {
+    width: 620px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+}
+
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+
+.header-primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 26px;
+}
+
+.job-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.job-list {
+    font-weight: 400; 
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0;
+    list-style-position: inside;
+    padding-bottom: 16px;
+}
+
+.job-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 10px;
+}
+
+.header-primary-education {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 26px;
+    margin-top: 30px;
+}
+
+.university-name {
+    color: #fb6d3a;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.study-name {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+
+.study-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.study-details {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 17px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    color: #595959;
+}
+
+.study-description {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 10px;
+}
+
+.header-primary-courses {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 26px;
+    margin-top: 45px;
+}
+
+.course-name {
+    color: #fb6d3a;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.course-organizer {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.course-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 50px;
+}
+
+.clause {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    margin-bottom: 40px;
+}
